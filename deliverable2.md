@@ -21,7 +21,7 @@ How might we create greater financial stability and safety protections for gig d
 
 ## User Persona
 
-Name: Marcus Johnson
+Name: Marcus Martholomew
 
 Age: 28
 
