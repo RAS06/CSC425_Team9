@@ -1,0 +1,10 @@
+
+Server.js is the app middleware and mongoDB connection, it also has the routes for the program
+
+Message.js contains the mongoose schema and indexes.
+
+Message controller handles the logic for CRUD operations with mongoose.
+
+messageRoutes.js maps the endpoints to the controller functions
+
+.env contains the port and also mongodb credentials
