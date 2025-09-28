@@ -1,0 +1,6 @@
+The Large Language Model help me with pretty much everything, including,
+
+The URL conventions for making new API endpoints, and using them to indicate which fields were necessary. 
+Linking the endpoints to functions to send responses in the controller. 
+Using ThunderClient to hit the APIs, sending the correct payload, and exporting the files to the test folder. 
+Setup of the app.js file and server.js file, as well as managing the dependencies in my terminal. 
