@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": {
+    "appointments": [
+      {
+        "id": "appt-001",
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "date": "2025-10-01",
+        "time": "10:00 AM"
+      },
+      {
+        "id": "appt-002",
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "date": "2025-10-02",
+        "time": "2:30 PM"
+      },
+      {
+        "id": "appt-003",
+        "name": "Carol Lee",
+        "email": "carol@example.com",
+        "date": "2025-10-03",
+        "time": "9:15 AM"
+      }
+    ],
+    "count": 3
+  }
+}

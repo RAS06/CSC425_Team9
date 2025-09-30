@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "data": {
+    "message": "Appointment updated successfully (placeholder)",
+    "appointment": {
+      "id": ":id",
+      "name": "Updated Name",
+      "email": "updated@example.com",
+      "date": "2025-10-10",
+      "time": "11:00 AM"
+    }
+  }
+}

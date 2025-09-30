@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "data": {
+    "message": "Appointment created successfully",
+    "appointment": {
+      "name": "Riz",
+      "email": "Riz@example.com",
+      "date": "09.28.25",
+      "time": "9pm",
+      "id": "472",
+      "_id": "68d9b17114c53056b7fda512",
+      "__v": 0
+    }
+  }
+}
